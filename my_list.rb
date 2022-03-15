@@ -15,7 +15,7 @@ class MyList
       counter += 1
     end
     @list
-end
+  end
 end
 
 # Verify solution:
